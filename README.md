@@ -18,6 +18,10 @@ pip install numpy
 
 
 
+### Need to do
+
+- Change Viterbi algorithm for HMM to have better complexity. Beam search
+
 ## Running the tests
 
 Need to add nosetests
